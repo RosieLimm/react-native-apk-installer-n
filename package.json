@@ -22,8 +22,8 @@
     "url": "https://github.com/nodece/react-native-apk-installer-n"
   },
   "peerDependencies": {
-    "react": "^16.8.1",
-    "react-native": ">=0.60.0-rc.0 <1.0.x"
+    "react": "^16.3.1",
+    "react-native": "0.55.4"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
